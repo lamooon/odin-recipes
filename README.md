@@ -1,4 +1,3 @@
-# odin-recipes
 PLAN
 =======
 1. Demonstrate ordered and unordered list
